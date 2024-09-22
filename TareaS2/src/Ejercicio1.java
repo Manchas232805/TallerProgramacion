@@ -1,4 +1,5 @@
 //Calculando la hipotenusa de un triangulo rectangulo
+package Programas;
 import java.util.Scanner;
 import java.lang.Math;
 import java.text.DecimalFormat;
